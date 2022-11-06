@@ -25,13 +25,16 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS;
-- JavaScript;
-- Git e Github.
+- HTML
+- CSS
+- JavaScript
+- Git e Github
 
 ## 💻 Projeto
 
 O Calendário de Jogos da Copa é um projeto que exibe os dias e horários dos jogos da Copa de 2022.
+
+[🔗 Clique aqui para acessar](https://nruchs.github.io/nlw-copa/)
 
 ## 🔖 Layout
 
@@ -43,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Natalia Ruchs :wave:
+Feito com ♥ by Natalia Ruchs
